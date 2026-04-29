@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyain1234&layout=compact&theme=dark&hide_border=true&bg_color=111111&title_color=5865F2&text_color=eeeeee)
 
 ### 🛰 Status
-[![Discord Presence](https://lanyard.onrender.com/api/922776570597376012?theme=dark&bg=111111)](https://discord.com/users/922776570597376012)
+[![Discord](https://discord-readme-badge.vercel.app/api?id=922776570597376012)](https://discord.com/users/922776570597376012)
 
 ---
 
